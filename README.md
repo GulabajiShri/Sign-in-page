@@ -1,1 +1,1 @@
-# Sign-in-page
+This is a basic Sign-In Interface built using HTML, CSS, and JavaScript. The project demonstrates a simple and clean user interface for user login functionality. It is designed primarily for beginners to understand the fundamentals of front-end development, including form handling, basic styling, and simple client-side validation. This project does not include any backend or database integration and is intended for learning and demonstration purposes only.
